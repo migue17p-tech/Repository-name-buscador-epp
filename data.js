@@ -4,7 +4,7 @@ const data = [
     { nombre: "Domínguez Víctor Ariel", dni: "20-28588421-8", estado: "Retiró KIT EPP", fecha: "01/10/2025" },
     { nombre: "Contreras Maximiliano", dni: "20-36256538-4", estado: "Retiró KIT EPP", fecha: "01/10/2025" },
     { nombre: "Heffner Rodrigo", dni: "20-43359150-0", estado: "Retiró KIT EPP", fecha: "01/10/2025" },
-    { nombre: "Blumenthal Erik Ivan", dni: "20-369947085", estado: "Retiró KIT EPP", fecha: "01/10/2025" },
+    { nombre: "Blumenthal Erik Ivan", dni: "20-36994708-5", estado: "Retiró KIT EPP", fecha: "01/10/2025" },
     { nombre: "Costa Diego", dni: "20-36801337-5", estado: "No retiró", fecha: "" },
     { nombre: "Coria Santiago Ezequiel", dni: "20-41608531-6", estado: "No retiró", fecha: "" },
     { nombre: "Funar Pablo", dni: "20-29028584-5", estado: "No retiró", fecha: "" },
@@ -32,5 +32,7 @@ const data = [
     { nombre: "Vazquez Miguel", dni: "20-28393845-0", estado: "No retiró", fecha: "" },
     { nombre: "Dominguez Matias", dni: "20-37238383-7", estado: "No retiró", fecha: "" },
     { nombre: "Maximiliano Jimenez", dni: "", estado: "Retiró KIT EPP-BOTAS MMLUCO", fecha: "" },
-    { nombre: "Martinez Lucas Yamil", dni: "20-34812864-8", estado: "Retiro KIT EPP", fecha: "" }
+    { nombre: "Martinez Lucas Yamil", dni: "20-34812864-8", estado: "Retiró KIT EPP", fecha: "" },
+    { nombre: "Martin Pereira", dni: "35-608-385", estado: "Retiró KIT EPP BOTAS", fecha: "" },
+    { nombre: "Chandia Rodrigo", dni: "20-28443358-1", estado: "No retiró", fecha: "" }
 ];
