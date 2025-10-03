@@ -8,6 +8,7 @@ body {
     height: 100vh;
     margin: 0;
 }
+
 .container {
     text-align: center;
     background-color: white;
@@ -17,10 +18,12 @@ body {
     width: 90%;
     max-width: 400px;
 }
+
 .logo {
     width: 100px;
     margin-bottom: 20px;
 }
+
 input[type="text"] {
     width: 100%;
     padding: 10px;
@@ -29,20 +32,18 @@ input[type="text"] {
     border: 1px solid #ccc;
     border-radius: 4px;
 }
+
 #result {
     font-size: 18px;
     font-weight: bold;
     margin-top: 20px;
 }
+
 .success {
     color: green;
 }
+
 .fail {
     color: red;
 }
-<!-- GIF primero -->
-<img src="logo_animado.gif" alt="Logo animado" class="logo">
-
-<!-- Logo PNG oculto por ahora -->
-<!-- <img src="logo.png" alt="Logo MMA" class="logo" style="display: none;"> -->
 
