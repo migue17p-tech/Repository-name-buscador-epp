@@ -40,3 +40,9 @@ input[type="text"] {
 .fail {
     color: red;
 }
+<!-- GIF primero -->
+<img src="logo_animado.gif" alt="Logo animado" class="logo">
+
+<!-- Logo PNG oculto por ahora -->
+<!-- <img src="logo.png" alt="Logo MMA" class="logo" style="display: none;"> -->
+
